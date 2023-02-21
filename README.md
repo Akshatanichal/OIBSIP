@@ -1,1 +1,1 @@
-# Oasis-Infobyte-Task-1
+# Oasis-Infobyte-Tasks
